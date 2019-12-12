@@ -1,11 +1,11 @@
-# aws-identity-provider (cloudFormation custom resource)
+# aws-identity-provider (cloudformation custom resource)
 
 [![Build Status](https://travis-ci.org/appspero/nelly.svg?branch=master)](https://travis-ci.org/appspero/aws-identity-provider)
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/appspero/aws-identity-provider)
 [![Go Report Card](https://goreportcard.com/badge/github.com/appspero/aws-identity-provider)](https://goreportcard.com/report/github.com/appspero/aws-identity-provider)
 [![Coverage](http://gocover.io/_badge/github.com/appspero/aws-identity-provider)](http://gocover.io/github.com/appspero/aws-identity-provider)
 
-AWS is not supporting creating `OIDC/SAML` identity providers using CloudFormation. This custom resource will extend CloudFormation (using Go lambda function) to create identity providers. Further it supports automatic retrieving of root CA thumbprint for an OpenID connect identity provider
+AWS is not supporting creating `OIDC/SAML` identity providers using CloudFormation. This custom resource will extend CloudFormation (using Go lambda function) to create identity providers. Further it supports automatic retrieving of root CA thumbprint for an OpenID connect identity provider.
 
 ## Installation
 
