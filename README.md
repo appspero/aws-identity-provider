@@ -1,4 +1,4 @@
-# aws-identity-provider (CloudFormation Custom Resource)
+# aws-identity-provider (cloudFormation custom resource)
 
 [![Build Status](https://travis-ci.org/appspero/nelly.svg?branch=master)](https://travis-ci.org/appspero/aws-identity-provider)
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/appspero/aws-identity-provider)
