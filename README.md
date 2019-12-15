@@ -1,6 +1,6 @@
 # aws-identity-provider (cloudformation custom resource)
 
-## WARNING: aws-identity-provider is deprecated in favor of [appspero/cfn-custom-provider](https://github.com/appspero/cfn-custom-provider)!
+## WARNING: aws-identity-provider is deprecated in favor of [appspero/cfn-custom-provider](https://github.com/appspero/cfn-resource-provider)!
 
 [![Build Status](https://travis-ci.org/appspero/nelly.svg?branch=master)](https://travis-ci.org/appspero/aws-identity-provider)
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/appspero/aws-identity-provider)
